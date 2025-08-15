@@ -15,6 +15,7 @@ dependencies = [
     "langchain-anthropic>=0.3.15",
     "langchain-mcp-adapters>=0.1.6",
     "langchain-deepseek>=0.1.2",
+    "langchain-azure-ai",
     "langchain-tavily",
     "langchain-groq>=0.2.4",
     "openai>=1.61.0",
